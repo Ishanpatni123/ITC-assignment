@@ -1,0 +1,142 @@
+.ptb-130 {
+    padding: 45px 0px
+}
+
+.bg-2 {
+    background-image: url(../images/meetings-bg.jpg);
+    position: fixed;
+}
+.section-title {
+    margin-bottom: 45px;
+}
+
+.wedo-wrap {
+    overflow: hidden;
+    
+}
+.mb-30 {
+    margin-bottom: 30px;
+}
+.wedo-icon {
+    background: #191b1e;
+    float: left;
+    margin-right: 10px;
+    padding: 30px;
+}
+.wedo-icon span {
+    display: block;
+    padding-top: 15px;
+}
+
+.wedo-icon span:before {
+    font-size: 50px;
+    color: #fb9902;
+}
+
+.wedo-info {
+    overflow: hidden;
+    padding: 17px 0px;
+}
+
+.wedo-info h3 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.wedo-wrap img {
+    padding: 0px 0;
+    height: 150px;
+    width: 150px;
+}
+
+.wedo-wrap img:hover {
+    opacity: 0.75;
+}
+.section-title {
+    margin-bottom: 45px;
+}
+
+.section-title h2 {
+    font-size: 34px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.section-title p {
+    font-style: italic;
+    font-size: 16px;
+}
+
+.about-wrap {
+    padding: 5px 0px;
+}
+
+.about-wrap h3 {
+    font-size: 23px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.about-wrap p {
+    margin-bottom: 5px;
+}
+
+.about-wrap a {
+    /* display: inline-block; */
+    padding: 10px 30px;
+    background: #fff;
+    color: #222;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-top: 5px;
+    border-radius: 3px;
+}
+
+.about-wrap a:hover {
+    background: #fb9902;
+    color: #fff;
+}
+.hb {
+    width: 70%;
+    height: 550px;
+    /* margin-left: 20%; */
+    margin-top: 2.5%;
+    padding-left: 30%;
+    align-items: center;
+    border: none;
+}
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #f2f2f2;
+    padding: 20px 30px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    }
+    .footer-links {
+    display: flex;
+    align-items: center;
+    }
+    .footer-links a {
+    margin-right: 20px;
+    color: #333333;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    }
+    .footer-social {
+    display: flex;
+    align-items: center;
+    }
+    .footer-social a {
+    margin-right: 20px;
+    color: #0077c2;
+    text-decoration: none;
+    font-size: 24px;
+    }
