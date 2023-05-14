@@ -23,7 +23,7 @@ function App() {
           <Route path="/Login" element={<Login />} />
           <Route path="/ToDo" element={<ToDo />} />
         </Routes>
-        <Footer />
+        {/* <Footer /> */}
       </div>
     </Router>
   );
