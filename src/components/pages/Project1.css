@@ -1,0 +1,43 @@
+.projectbg {
+    background-image: url(../images/whitebg.avif);
+    
+    
+}
+.underline{
+    height: 4px;
+    width: 14rem;
+    background-color: #e80a0a;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .container > img{
+    height: 230px;
+    width: 300px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 40px;
+    
+  }
+  .container > h2{
+    padding-top: 40px;
+  }
+  .container > h2{
+    size: 35px;
+    color: #e80a0a;
+  }
+  .container > h4{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+    justify-content: center;
+
+  }
+  .container > p{
+    display: flex;
+    text-align: center;
+    color: #e80a0a;
+  }
